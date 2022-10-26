@@ -3,6 +3,8 @@
 ### Selected topic
 Covid 19 vaccination effects.
 ### Reason why selected the topic?
+During the past three years almost everyone around the globe has been exposed to the big trauma of Covid-19 in some ways. Many people have died because of the little knowledge available of this virus at the beginning of discovery. Since this subject is very known to everyone and it is important to see the result after getting vaccination. we want to see if there's a consistance relationship with covid vaccine and number of cases of covid death.
+
 
 ### Description of the source of data
 
@@ -17,17 +19,22 @@ https://data.chhs.ca.gov/dataset/covid-19-time-series-metrics-by-county-and-stat
 2- What is the impact of COVID-19 vaccination rates on new case numbers?
 
 ### Create a mockup of a machine learning model.
+covid vaccination as independant variable.
 
 ### Create a mockup of a database.
-
+First, we'll clean the data using python. We are goning to use postgress as database. We will write some query and creat tables.
 
 ### Decide which technologies will be used.
 
 Python
 
-Machine learning model
+Pandas
 
-Tablue
+Machine learning model (linear regression)
+
+Tablue to visualize our results
+
+postgress
 
 Jupyter notebook
 
