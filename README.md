@@ -7,4 +7,5 @@ During the past three years almost everyone around the globe has been exposed to
 This project will address these two questions in general:
 
 1- What is the impact of COVID-19 vaccination rates on mortality rates? 
+
 2- What is the impact of COVID-19 vaccination rates on new case numbers?
