@@ -14,13 +14,14 @@ https://data.chhs.ca.gov/dataset/covid-19-time-series-metrics-by-county-and-stat
 
 ### Questions we hope to answer with the data
  
- 1- What is the impact of COVID-19 vaccination rates on mortality rates? 
+ 1- What is the impact of COVID-19 vaccination rates on mortality rates in california? 
 
-2- What is the impact of COVID-19 vaccination rates on new case numbers?
+2- What is the impact of COVID-19 vaccination rates on new case numbers in california?
 
 ### Create a mockup of a machine learning model.
+We are going to use simple regression, multiple regression and random forest classification.
 covid vaccination as independant variable.
-
+mortality rate and new cases as dependant variable
 ### Create a mockup of a database.
 First, we'll clean the data using python. We are goning to use postgress as database. We will write some query and creat tables.
 
@@ -32,7 +33,7 @@ Pandas
 
 Machine learning model (linear regression)
 
-Tablue to visualize our results
+Tableau to visualize our results
 
 postgress
 
