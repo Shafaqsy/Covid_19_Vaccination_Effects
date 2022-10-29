@@ -35,7 +35,7 @@ Machine learning model (linear regression)
 
 Tableau to visualize our results
 
-postgress
+Postgress
 
 Jupyter notebook
 
