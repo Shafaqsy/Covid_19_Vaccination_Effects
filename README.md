@@ -37,7 +37,7 @@ Tableau to isualize our results
 
 Postgress
 
-Jupyter notebook
+Jupyter Notebook
 
 Visual Studio Code
 
