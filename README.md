@@ -31,9 +31,9 @@ Python
 
 Pandas
 
-Machine learning model (linear regression)
+Machine Learning Model (linear regression)
 
-Tableau to visualize our results
+Tableau to isualize our results
 
 Postgress
 
