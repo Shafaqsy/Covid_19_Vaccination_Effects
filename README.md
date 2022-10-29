@@ -1,7 +1,7 @@
 # Covid_19_Vaccination_Effects
 
 ### Selected topic
-Covid 19 vaccination effects.
+Covid 19 Vaccination Effects.
 ### Reason why selected the topic?
 During the past three years almost everyone around the globe has been exposed to the big trauma of Covid-19 in some ways. Many people have died because of the little knowledge available of this virus at the beginning of discovery. Since this subject is very known to everyone and it is important to see the result after getting vaccination. we want to see if there's a consistance relationship with covid vaccine and number of cases of covid death.
 
