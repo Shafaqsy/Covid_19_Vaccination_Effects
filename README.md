@@ -8,7 +8,7 @@ During the past three years almost everyone around the globe has been exposed to
 
 ### Description of the source of data
 
-https://data.chhs.ca.gov/dataset/vaccine-progress-dashboard/resource/2a6bc9a7-7f19-4ff5-9120-1f41c732d9d5
+https://data.chhs.ca.gov/dataset/vaccine-progress-dashboard/resource/130d7ba2-b6eb-438d-a412-741bde207e1c
 
 https://data.chhs.ca.gov/dataset/covid-19-time-series-metrics-by-county-and-state/res[…]d3-b48cdbc4be7a?view_id=be65bada-5066-47cf-8781-04c58dbbc5b4
 
