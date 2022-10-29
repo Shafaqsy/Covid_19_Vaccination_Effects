@@ -39,7 +39,7 @@ postgress
 
 Jupyter notebook
 
-vs code
+Visual Studio Code
 
 Gitbash
 
