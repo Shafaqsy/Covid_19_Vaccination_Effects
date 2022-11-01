@@ -9,3 +9,7 @@ This project will address these two questions in general:
 1- What is the impact of COVID-19 vaccination rates on mortality rates? 
 
 2- What is the impact of COVID-19 vaccination rates on new case numbers?
+
+https://docs.google.com/presentation/d/14EUGGccU_-Y0KGT0b7jSyuWudXkL0MYvW0zuBWmmtB0/edit?usp=sharing
+
+I just added the google slides in a template and updated the first 4 slides. please let me know if you can access it.
