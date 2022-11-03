@@ -45,4 +45,20 @@ Visual Studio Code
 
 Gitbash
 
+## Description of the data exploration phase of the project
+
+## Description of the analysis phase of the project
+
+## Description of the communication protocols 
+ 
+## Outline of the project (this may include images, but should be easy to follow and digest)
+
+## Description of preliminary data preprocessing 
+
+## Description of preliminary feature engineering and preliminary feature selection, including their decision-making process 
+
+## Description of how data was split into training and testing sets
+
+## Explanation of model choice, including limitations and benefits
+
 
