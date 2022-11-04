@@ -45,12 +45,13 @@ Visual Studio Code
 
 Gitbash
 
-## Description of the data exploration phase of the project
+## Description of the data exploration phase of the project.
+we decided to look for data that can measure the effects of the vaccine on case numbers and deaths. we found the data on the California Health and Human Services website. There are two sets of data that we are using from. One is the covid statistic data which includes deaths and case number and the second data is for vaccination.
 
 ## Description of the analysis phase of the project
 
 ## Description of the communication protocols 
- 
+ We communicate through Zoom call. We meet during class time as well as saturday morning. Also, we use slack to message team members.
 ## Outline of the project (this may include images, but should be easy to follow and digest)
 
 ## Description of preliminary data preprocessing 
@@ -58,7 +59,7 @@ Gitbash
 ## Description of preliminary feature engineering and preliminary feature selection, including their decision-making process 
 
 ## Description of how data was split into training and testing sets
-
+We chose our 
 ## Explanation of model choice, including limitations and benefits
 
 We chose  a supervised machine learning model such as the random forest classifier.
