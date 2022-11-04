@@ -61,4 +61,6 @@ Gitbash
 
 ## Explanation of model choice, including limitations and benefits
 
-
+We chose  a supervised machine learning model such as the random forest classifier.
+Random forest classifier is also advantageous as it is less influenced by outliers.
+This model is also appropriate for this binary classification problem
