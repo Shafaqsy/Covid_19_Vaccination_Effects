@@ -76,7 +76,7 @@ This model is also appropriate for this binary classification problem.
 
 # Storyboard on Google Slide(s) ✓ Description of the tool(s) that will be used to create final dashboard ✓ Description of interactive element(s) 
 
-We used Tableau for the visualization part
+We used Tableau for the visualization, the link to access it is on top of the page. we can clearly see the releationship between the total number of doeses and cases or deaths, the more doses we used we see that the number of deaths decreased.
 
 
 
