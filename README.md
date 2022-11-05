@@ -2,6 +2,8 @@
 
 [Google Slides](https://docs.google.com/presentation/d/14EUGGccU_-Y0KGT0b7jSyuWudXkL0MYvW0zuBWmmtB0/edit?usp=sharing)
 
+[Tableau](https://public.tableau.com/app/profile/maryam.rahmani/viz/FinalProjectCovid_19_Vaccination_Effects/Deaths2?publish=yes)
+
 ### Selected topic
 Covid 19 Vaccination Effects.
 ### Reason why selected the topic?
@@ -76,6 +78,6 @@ This model is also appropriate for this binary classification problem.
 
 We used Tableau for the visualization part
 
-[Tableau](https://public.tableau.com/app/profile/maryam.rahmani/viz/FinalProjectCovid_19_Vaccination_Effects/Deaths2?publish=yes)
+
 
 
