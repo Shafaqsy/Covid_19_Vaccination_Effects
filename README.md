@@ -73,3 +73,9 @@ This model is also appropriate for this binary classification problem.
 
 
 # Storyboard on Google Slide(s) ✓ Description of the tool(s) that will be used to create final dashboard ✓ Description of interactive element(s) 
+
+We used Tableau for the visualization part
+
+[Tableau](https://public.tableau.com/app/profile/maryam.rahmani/viz/FinalProjectCovid_19_Vaccination_Effects/Deaths2?publish=yes)
+
+
