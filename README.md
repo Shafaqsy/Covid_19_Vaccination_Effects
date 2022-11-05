@@ -49,6 +49,8 @@ Gitbash
 we decided to look for data that can measure the effects of the vaccine on case numbers and deaths. we found the data on the California Health and Human Services website. There are two sets of data that we are using from. One is the covid statistic data which includes deaths and case number and the second data is for vaccination.
 
 ## Description of the analysis phase of the project
+While there was a considerable amount data regarding each individual COVID vaccine and each county, we ultimately chose to use the data for the whole state of California and the combined number of vaccines total to measure the overall effect on the state of California. Preliminary results suggest an inverse relationship between the number of deaths and the total number of vaccine doeses distributed. 
+
 
 ## Description of the communication protocols 
  We communicate through Zoom call. We meet during class time as well as saturday morning. Also, we use slack to message team members.
