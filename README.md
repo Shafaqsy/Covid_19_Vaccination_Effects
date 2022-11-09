@@ -63,7 +63,10 @@ While there was a considerable amount data regarding each individual COVID vacci
 ## Description of preliminary feature engineering and preliminary feature selection, including their decision-making process 
 
 ## Description of how data was split into training and testing sets
-We chose our 
+
+<img width="334" alt="target and feature" src="https://user-images.githubusercontent.com/107155888/200739585-ca9f46dc-d7da-4f84-81b8-0cf31eb669eb.png">
+
+
 ## Explanation of model choice, including limitations and benefits
 
 We chose  a supervised machine learning model such as the random forest classifier.
