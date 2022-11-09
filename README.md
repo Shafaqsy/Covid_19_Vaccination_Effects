@@ -58,7 +58,9 @@ While there was a considerable amount data regarding each individual COVID vacci
  We communicate through Zoom call. We meet during class time as well as saturday morning. Also, we use slack to message team members.
 ## Outline of the project (this may include images, but should be easy to follow and digest)
 
-## Description of preliminary data preprocessing 
+## Description of preliminary data preprocessing
+
+![This is an image](https://github.com/Shafaqsy/Covid_19_Vaccination_Effects/blob/sandmanN7_branch/Data_Info/Data_Correlation.png)
 
 ## Description of preliminary feature engineering and preliminary feature selection, including their decision-making process 
 
