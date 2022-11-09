@@ -57,14 +57,15 @@ While there was a considerable amount data regarding each individual COVID vacci
 ## Description of the communication protocols 
  We communicate through Zoom call. We meet during class time as well as saturday morning. Also, we use slack to message team members.
 ## Outline of the project (this may include images, but should be easy to follow and digest)
+We will clean the data and eliminate the rows and columns that are irrelevant to our questions. Next, we will find a machine-learning model which bests fits our data; we will likely make multiple models and decide upon the best one.
 
 ## Description of preliminary data preprocessing
 
-![This is an image](https://github.com/Shafaqsy/Covid_19_Vaccination_Effects/blob/sandmanN7_branch/Data_Info/Data_Correlation.png)
+https://github.com/Shafaqsy/Covid_19_Vaccination_Effects/tree/sandmanN7_branch/FinalCleaning
 
 ## Description of preliminary feature engineering and preliminary feature selection, including their decision-making process 
 
-We excluded all but 5 columns from the original data sets and many rows as well. The main reason is that we neither do not want to measure the effect of the  individual COVID shots nor measure the individual counties and age groups, but the total number of people aged 5 and older, the number of doses and cumunaltive doses they get/have and the effect of these numbers on the case numbers and number of deaths in the state overall. Also, prior correlation suggested stronger relationships between these variables.
+We excluded all but 5 columns from the original data sets and many rows as well. The main reason is that we neither do not want to measure the effect of the  individual COVID shots nor measure the individual counties and age groups, but the total number of people aged 5 and older, the number of doses and cumunaltive doses they get/have and the effect of these numbers on the case numbers and number of deaths in the state overall. Also, prior correlation suggested stronger relationships between these variables. Data was cleaned and sent to SQL in order to merge. Also as a side note, due to the large number of columns and rows in the intial sets of data, only the exploration and analysis for the variables we found to be most correlated will be posted, as posting all of them would be too difficult and likely confusing for most trying to read the data points.
 
 ## Description of how data was split into training and testing sets
 
@@ -73,9 +74,7 @@ We excluded all but 5 columns from the original data sets and many rows as well.
 
 ## Explanation of model choice, including limitations and benefits
 
-We chose  a supervised machine learning model such as the random forest classifier.
-Random forest classifier is also advantageous as it is less influenced by outliers.
-This model is also appropriate for this binary classification problem.
+We will be testing a random forest classifier and an ARIMA model. Random forset classifier may not be feasible due to lack of classifications. We will also test an ARIMA model, which will show the effect of time on multiple variables. ARIMA can handle multiple variables and account for time, limitations may be due to having the wrong or too many variables, and model may not account for real-world biases.
 
 
 
