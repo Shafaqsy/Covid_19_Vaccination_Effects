@@ -64,6 +64,8 @@ While there was a considerable amount data regarding each individual COVID vacci
 
 ## Description of preliminary feature engineering and preliminary feature selection, including their decision-making process 
 
+We excluded all but 5 columns from the original data sets and many rows as well. The main reason is that we neither do not want to measure the effect of the  individual COVID shots nor measure the individual counties and age groups, but the total number of people aged 5 and older, the number of doses and cumunaltive doses they get/have and the effect of these numbers on the case numbers and number of deaths in the state overall.
+
 ## Description of how data was split into training and testing sets
 
 <img width="334" alt="target and feature" src="https://user-images.githubusercontent.com/107155888/200739585-ca9f46dc-d7da-4f84-81b8-0cf31eb669eb.png">
