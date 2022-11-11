@@ -78,7 +78,7 @@ We excluded all but 5 columns from the original data sets and many rows as well.
 We will be testing a random forest classifier and an ARIMA model. Random forset classifier may not be feasible due to lack of classifications. We will also test an ARIMA model, which will show the effect of time on multiple variables. ARIMA can handle multiple variables and account for time, limitations may be due to having the wrong or too many variables, and model may not account for real-world biases.
 
 ## Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
-Random forest turned out a zero accuracy score. We got suggestions from one of the TA to check areema modulesince we are working on the time series data 
+Random forest turned out a zero accuracy score. Random forest only work on classification problem to 
 
 ## Description of how they have trained the model thus far, and any additional training that will take place
 
