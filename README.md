@@ -29,6 +29,7 @@ mortality rate and new cases as dependant variable
 ### Create a mockup of a database.
 First, we'll clean the data using python. We are goning to use postgress as database. We will write some query and creat tables.
 
+##  Technologies, languages, tools, and algorithms used throughout the project 
 ### Decide which technologies will be used.
 
 Python
@@ -76,7 +77,11 @@ We excluded all but 5 columns from the original data sets and many rows as well.
 
 We will be testing a random forest classifier and an ARIMA model. Random forset classifier may not be feasible due to lack of classifications. We will also test an ARIMA model, which will show the effect of time on multiple variables. ARIMA can handle multiple variables and account for time, limitations may be due to having the wrong or too many variables, and model may not account for real-world biases.
 
+## Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
 
+## Description of how they have trained the model thus far, and any additional training that will take place
+
+## Description of current accuracy score 
 
 
 
