@@ -16,3 +16,5 @@ I just added the google slides in a template and updated the first 4 slides. ple
 
 
 [Tableau](https://public.tableau.com/app/profile/maryam.rahmani/viz/finalprojectcovid-19/relation?publish=yes)
+
+[Google Slides](https://docs.google.com/presentation/d/14EUGGccU_-Y0KGT0b7jSyuWudXkL0MYvW0zuBWmmtB0/edit?usp=sharing)
