@@ -48,6 +48,10 @@ Visual Studio Code
 
 Gitbash
 
+ ## Result of analysis
+##  Recommendation for future analysis
+## Anything the team would have done differently 
+
 ## Description of the data exploration phase of the project.
 we decided to look for data that can measure the effects of the vaccine on case numbers and deaths. we found the data on the California Health and Human Services website. There are two sets of data that we are using from. One is the covid statistic data which includes deaths and case number and the second data is for vaccination.
 
@@ -82,7 +86,7 @@ Random forest turned out a zero accuracy score. Random forest only work on class
 
 ## Description of how they have trained the model thus far, and any additional training that will take place
 
-## Description of current accuracy score 
+##  Description and explanation of model’s confusion matrix, including final accuracy score 
 
 
 
