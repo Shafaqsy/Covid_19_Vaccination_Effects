@@ -87,7 +87,7 @@ Random forest turned out a zero accuracy score. Random forest only work on class
 ## Description of how they have trained the model thus far, and any additional training that will take place
 Since the objective of our model was to forecast the mortality and cases rates, the models accuracy was determined through by SMSE values. This number would tell us how far the predicted value is from our actual. 
 ##  Description and explanation of model’s confusion matrix, including final accuracy score 
-Beyond visual analysis, we can use various error measures and metrics to evaluate the performance of our ARIMA model in Python. 
+Beyond visual analysis, we can use various error measures and metrics to evaluate the performance of our ARIMA model in Python. first, we need some test samples to compare our predicted samples. We can split our time-series data into train and test samples and infer the test set.
 
 
 # Storyboard on Google Slide(s) ✓ Description of the tool(s) that will be used to create final dashboard ✓ Description of interactive element(s) 
