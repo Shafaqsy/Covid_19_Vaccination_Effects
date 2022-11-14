@@ -55,6 +55,7 @@ Gitbash
 
 
 ##  Recommendation for future analysis
+Since COVID pandemic is so recent, it might not be the most "accurate" model for now to develop. We managed to obtain such low error results with an advanced ARIMA model with small 2 year dataset. We're sure as time progresses that a model like this will continue imporving as more data comes in. How this model was developed was for plug and play purposes. In more months to come it'd be interesting to see how accuately it can continueally predict the cases and deaths to come as people continue to get vaccinated. 
 ## Anything the team would have done differently 
 
 ## Description of the data exploration phase of the project.
