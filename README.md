@@ -85,7 +85,7 @@ We will be testing a random forest classifier and an ARIMA model. Random forset 
 Random forest turned out a zero accuracy score. Random forest only work on classification problem to 
 
 ## Description of how they have trained the model thus far, and any additional training that will take place
-
+Since the objective of our model was to forecast the mortality and cases rates, the models accuracy was determined through by SMSE values. This number would tell us how far the predicted value is from our actual. 
 ##  Description and explanation of model’s confusion matrix, including final accuracy score 
 
 
