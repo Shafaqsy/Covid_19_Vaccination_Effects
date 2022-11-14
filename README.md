@@ -57,7 +57,7 @@ Gitbash
 ##  Recommendation for future analysis
 Since COVID pandemic is so recent, it might not be the most "accurate" model for now to develop. We managed to obtain such low error results with an advanced ARIMA model with small 2 year dataset. We're sure as time progresses that a model like this will continue imporving as more data comes in. How this model was developed was for plug and play purposes. In more months to come it'd be interesting to see how accuately it can continueally predict the cases and deaths to come as people continue to get vaccinated. 
 ## Anything the team would have done differently 
-
+If there was anything we would have done differently, we would've looked at trying to build a multivariate dataset trained with deep learning to predict cases and death by vaccinations depending on comorbidities. This would be the next step in enhancing the model since there has been several recent studies that show a much higher correlation when this is the case compared to a healthy individual. We hope to see an inclusive dataset like this come out to try this model. 
 ## Description of the data exploration phase of the project.
 we decided to look for data that can measure the effects of the vaccine on case numbers and deaths. we found the data on the California Health and Human Services website. There are two sets of data that we are using from. One is the covid statistic data which includes deaths and case number and the second data is for vaccination.
 
@@ -66,7 +66,7 @@ While there was a considerable amount data regarding each individual COVID vacci
 
 
 ## Description of the communication protocols 
- We communicate through Zoom call. We meet during class time as well as saturday morning. Also, we use slack to message team members.
+ We communicate through Zoom call. We meet during class time as well as Saturdays morning. Also, we use slack to message team members.
 ## Outline of the project (this may include images, but should be easy to follow and digest)
 We will clean the data and eliminate the rows and columns that are irrelevant to our questions. Next, we will find a machine-learning model which bests fits our data; we will likely make multiple models and decide upon the best one.
 
