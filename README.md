@@ -49,6 +49,10 @@ Visual Studio Code
 Gitbash
 
  ## Result of analysis
+ The ARIMA model was able to predict a 14 day forcast for cases and mortality with surprisingly low error.
+ ![ARIMA(14day)Mortalityprediction](https://user-images.githubusercontent.com/107658895/201571922-37add657-8d13-45e7-9d64-4d5c11ac700c.png)
+
+
 ##  Recommendation for future analysis
 ## Anything the team would have done differently 
 
