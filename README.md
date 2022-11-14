@@ -88,13 +88,18 @@ We excluded all but 5 columns from the original data sets and many rows as well.
 We will be testing a random forest classifier and an ARIMA model. Random forset classifier may not be feasible due to lack of classifications. We will also test an ARIMA model, which will show the effect of time on multiple variables. ARIMA can handle multiple variables and account for time, limitations may be due to having the wrong or too many variables, and model may not account for real-world biases.
 
 ## Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
-Random forest turned out a zero accuracy score. Random forest only work on classification problem to 
-
+Random forest turned out a zero accuracy score. Random forest only works on classification problems so we decided to switch to an ARIMA model after some cousel from the TA since we were tackling this as a timeseries problem.
 ## Description of how they have trained the model thus far, and any additional training that will take place
-Since the objective of our model was to forecast the mortality and cases rates, the models accuracy was determined through by SMSE values. This number would tell us how far the predicted value is from our actual. 
+In a timeseries ARIMA model, before we actually train the model, we have to split the data set into a training and testing section. We do this because we first train the model on the data and keep the testing section hidden from the model. Once model is ready, we ask it to make predictions on the test data and see how well it performs. We reserved the last 14 days of the dataset for testing.
+
 ##  Description and explanation of model’s confusion matrix, including final accuracy score 
 Beyond visual analysis, we can use various error measures and metrics to evaluate the performance of our ARIMA model in Python. first, we need some test samples to compare our predicted samples. We can split our time-series data into train and test samples and infer the test set.
-
+Since the objective of our model was to forecast the mortality and cases rates, there were a few different evaluation metrics we used to measure the performance of our time-series forecasting model. The models "accuracy" was determined by the following:
+- Mean Absolute Error
+- Mean Absolute Percentage Error
+- Mean Squared Error
+- Root Mean Squared Error 
+These parameters number would tell us the performance of our predicted value compared to the ground truth. The ability of a time series forecasting model to predict the future is defined by its performance. This is frequently at the expense of being able to explain why a particular prediction was made, confidence intervals, and even a greater grasp of the problem’s underlying causes.
 
 # Storyboard on Google Slide(s) ✓ Description of the tool(s) that will be used to create final dashboard ✓ Description of interactive element(s) 
 
