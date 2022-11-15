@@ -65,9 +65,6 @@ we decided to look for data that can measure the effects of the vaccine on case 
 ## Description of the analysis phase of the project
 While there was a considerable amount data regarding each individual COVID vaccine and each county, we ultimately chose to use the data for the whole state of California and the combined number of vaccines total to measure the overall effect on the state of California. Preliminary results suggest an inverse relationship between the number of deaths and the total number of vaccine doeses distributed. 
 
-
-## Description of the communication protocols 
- We communicate through Zoom call. We meet during class time as well as Saturdays morning. Also, we use slack to message team members.
 ## Outline of the project (this may include images, but should be easy to follow and digest)
 We will clean the data and eliminate the rows and columns that are irrelevant to our questions. Next, we will find a machine-learning model which bests fits our data; we will likely make multiple models and decide upon the best one.
 
