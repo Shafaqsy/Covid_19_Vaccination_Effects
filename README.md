@@ -11,6 +11,7 @@ Covid 19 Vaccination Effects.
 During the past three years almost everyone around the globe has been exposed to the big trauma of Covid-19 in some ways. Many people have died because of the little knowledge available of this virus at the beginning of discovery. Since this subject is very known to everyone and it is important to see the result after getting vaccination. we want to see if there's a consistance relationship with covid vaccine and number of cases of covid death.
 
 
+
 ### Description of the source of data
 
 https://data.chhs.ca.gov/dataset/vaccine-progress-dashboard/resource/130d7ba2-b6eb-438d-a412-741bde207e1c
