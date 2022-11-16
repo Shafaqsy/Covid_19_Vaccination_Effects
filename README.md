@@ -97,6 +97,9 @@ Since the objective of our model was to forecast the mortality and cases rates, 
 - Mean Absolute Percentage Error
 - Mean Squared Error
 - Root Mean Squared Error
+
+
+
 ![image](https://user-images.githubusercontent.com/107658895/202085599-dbd7f422-8c34-445a-9153-6d226fccfc65.png)
 
 These parameters number would tell us the performance of our predicted value compared to the ground truth. The ability of a time series forecasting model to predict the future is defined by its performance. This is frequently at the expense of being able to explain why a particular prediction was made, confidence intervals, and even a greater grasp of the problem’s underlying causes.
