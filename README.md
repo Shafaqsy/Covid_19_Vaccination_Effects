@@ -51,9 +51,12 @@ Gitbash
 
  ## Result of analysis
  The ARIMA model was able to predict a 14 day forcast for cases and mortality with surprisingly low error.
- ### Training
+ ### Testing 1st Order Differencing Test vs ARIMA Prediction
  ![ARIMA(14day)Mortalityprediction](https://user-images.githubusercontent.com/107658895/201571922-37add657-8d13-45e7-9d64-4d5c11ac700c.png)
 ![ARIMA(14day)Caseprediction](https://user-images.githubusercontent.com/107658895/201572687-7ae9f95e-a9dc-4f01-91ff-e2952f1a463c.png)
+ ### Actual Real World Predictions and Forecast
+![ARIMA(14day)oosCaseprediction](https://user-images.githubusercontent.com/107658895/202086295-a3feb725-eba7-49e6-a5ee-1978c7437ba6.png)
+![ARIMA(14day)oosDeathprediction](https://user-images.githubusercontent.com/107658895/202086321-510d33df-1588-46ad-9b33-95697b43d75f.png)
 
 
 ##  Recommendation for future analysis
