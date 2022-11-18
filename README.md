@@ -63,8 +63,10 @@ Gitbash
 
 ##  Recommendation for future analysis
 Since COVID pandemic is so recent, it might not be the most "accurate" model for now to develop. We managed to obtain such low error results with an advanced ARIMA model with small 2 year dataset. We're sure as time progresses that a model like this will continue imporving as more data comes in. How this model was developed was for plug and play purposes. In more months to come it'd be interesting to see how accuately it can continueally predict the cases and deaths to come as people continue to get vaccinated. 
+
 ## Anything the team would have done differently 
 If there was anything we would have done differently, we would've looked at trying to build a multivariate dataset trained with deep learning to predict cases and death by vaccinations depending on comorbidities. This would be the next step in enhancing the model since there has been several recent studies that show a much higher correlation when this is the case compared to a healthy individual. We hope to see an inclusive dataset like this come out to try this model. 
+
 ## Description of the data exploration phase of the project.
 we decided to look for data that can measure the effects of the vaccine on case numbers and deaths. we found the data on the California Health and Human Services website. There are two sets of data that we are using from. One is the covid statistic data which includes deaths and case number and the second data is for vaccination.
 
@@ -93,6 +95,7 @@ We will be testing a random forest classifier and an ARIMA model. Random forset 
 
 ## Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
 Random forest turned out a zero accuracy score. Random forest only works on classification problems so we decided to switch to an ARIMA model after some cousel from the TA since we were tackling this as a timeseries problem.
+
 ## Description of how they have trained the model thus far, and any additional training that will take place
 In a timeseries ARIMA model, before we actually train the model, we have to split the data set into a training and testing section. We do this because we first train the model on the data and keep the testing section hidden from the model. Once model is ready, we ask it to make predictions on the test data and see how well it performs. We reserved the last 14 days of the dataset for testing.
 
